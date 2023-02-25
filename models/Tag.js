@@ -1,4 +1,3 @@
--- Active: 1675393804859@@127.0.0.1@3306@ecommerce_db
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
